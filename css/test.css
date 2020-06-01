@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+h1{
+font-size: 50px;
+color: #F0E68C;
+}
+
+h2{
+color: chartreuse;
+}
+
+.big{
+font-size: 70px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color:red
+}
+
+h1 span{
+color: violet        
+}
